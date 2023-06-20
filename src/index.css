@@ -269,7 +269,7 @@ main {
 .container {
   width: 90vw;
   margin: 5rem auto;
-  background: var(--grey-300);
+  background: var(--white);
   border-radius: var(--borderRadius);
   padding: 2.5rem;
   max-width: 800px;
